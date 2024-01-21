@@ -1,4 +1,4 @@
-# ferdi Tayfur kişisel web sitesi projesi
+# Ferdi Tayfur kişisel web sitesi projesi
 
 Bu proje, sanatçı Ferdi Tayfur'un kişisel web sitesi için oluşturulmuştur.
 
